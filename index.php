@@ -145,7 +145,7 @@ require_once 'assets/head.php';
 											<div class="parallax-front">
 											</div>
 											<div class="parallax-back">
-												<img src="assets/img/ele2.jpg" class="img-responsive rounded" ...>
+												<img src="<?php echo $cdnimg; ?>assets/img/ele2.jpg" class="img-responsive rounded" ...>
 											</div>
 										</div>
 									</div>
@@ -172,7 +172,7 @@ require_once 'assets/head.php';
 											<div class="parallax-front">
 											</div>
 											<div class="parallax-back">
-												<img src="assets/img/hs1.jpg" class="img-responsive rounded" ...>
+												<img src="<?php echo $cdnimg; ?>assets/img/hs1.jpg" class="img-responsive rounded" ...>
 											</div>
 										</div>
 									</div>
@@ -199,7 +199,7 @@ require_once 'assets/head.php';
 											<div class="parallax-front">
 											</div>
 											<div class="parallax-back">
-												<img src="assets/img/shs1.jpg" class="img-responsive rounded" ...>
+												<img src="<?php echo $cdnimg; ?>assets/img/shs1.jpg" class="img-responsive rounded" ...>
 											</div>
 										</div>
 									</div>
@@ -226,7 +226,7 @@ require_once 'assets/head.php';
 											<div class="parallax-front">
 											</div>
 											<div class="parallax-back">
-												<img src="assets/img/col1.jpg" class="img-responsive rounded" ...>
+												<img src="<?php echo $cdnimg; ?>assets/img/col1.jpg" class="img-responsive rounded" ...>
 											</div>
 										</div>
 									</div>
