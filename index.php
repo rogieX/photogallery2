@@ -131,7 +131,7 @@ require_once 'assets/head.php';
 				<div class="timeline">
 					<!-- Item 1 -->
 					<div class="timeline-item" id="timeline-example-2">
-						<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" href="#timeline-example-2" data-tooltip="February 2017"><i class="icon icon-check"></i></a></div>
+						<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" ><i class="icon icon-check"></i></a></div>
 						<div class="timeline-content">
 							<div class="tile">
 								<div class="tile-content">
@@ -158,7 +158,7 @@ require_once 'assets/head.php';
 					</div>
 					<!-- ITEM 2 -->
 					<div class="timeline-item" id="timeline-example-2">
-						<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" href="#timeline-example-2" data-tooltip="February 2017"><i class="icon icon-check"></i></a></div>
+						<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" ><i class="icon icon-check"></i></a></div>
 						<div class="timeline-content">
 							<div class="tile">
 								<div class="tile-content">
@@ -185,7 +185,7 @@ require_once 'assets/head.php';
 					</div>
 					<!-- ITEM 3 -->
 					<div class="timeline-item" id="timeline-example-2">
-						<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" href="#timeline-example-2" data-tooltip="February 2017"><i class="icon icon-check"></i></a></div>
+						<div class="timeline-left"><a class="timeline-icon icon-lg tooltip"><i class="icon icon-check"></i></a></div>
 						<div class="timeline-content">
 							<div class="tile">
 								<div class="tile-content">
@@ -212,7 +212,7 @@ require_once 'assets/head.php';
 					</div>
 					<!-- ITEM 4 -->
 					<div class="timeline-item" id="timeline-example-2">
-						<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" href="#timeline-example-2" data-tooltip="February 2017"><i class="icon icon-check"></i></a></div>
+						<div class="timeline-left"><a class="timeline-icon icon-lg tooltip" ><i class="icon icon-check"></i></a></div>
 						<div class="timeline-content">
 							<div class="tile">
 								<div class="tile-content">
